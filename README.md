@@ -34,3 +34,11 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 24 | [Java Module System](docs/24-java-module-system.md) | module-info.java, requires, exports, opens, uses/provides, and jlink |
 | 25 | [Security](docs/25-security.md) | Hashing, AES/RSA encryption, SecureRandom, TLS, password hashing, and secure coding |
 | 26 | [Internationalization](docs/26-internationalization.md) | Locale, ResourceBundle, MessageFormat, NumberFormat, and locale-aware formatting |
+| 27 | [Strings](docs/27-strings.md) | String methods, StringBuilder, formatting, text blocks, and character utilities |
+| 28 | [Interfaces and Abstract Classes](docs/28-interfaces-and-abstract-classes.md) | Contracts, default methods, abstract classes, sealed interfaces, and when to use each |
+| 29 | [Comparable and Comparator](docs/29-comparable-and-comparator.md) | Natural ordering, custom ordering, Comparator chains, and sorting with streams |
+| 30 | [JPA and Hibernate](docs/30-jpa-and-hibernate.md) | Entity mapping, JPQL, relationships, fetch strategies, cascades, and the N+1 problem |
+| 31 | [Spring Boot](docs/31-spring-boot.md) | Dependency injection, REST controllers, Spring Data JPA, validation, and testing |
+| 32 | [XML Processing](docs/32-xml-processing.md) | DOM, SAX, StAX, JAXB, and XPath |
+| 33 | [Reactive Programming](docs/33-reactive-programming.md) | Project Reactor, Mono, Flux, operators, backpressure, and Spring WebFlux |
+| 34 | [Structured Concurrency](docs/34-structured-concurrency.md) | StructuredTaskScope, ShutdownOnFailure, ShutdownOnSuccess, and virtual threads |
