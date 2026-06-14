@@ -21,3 +21,4 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 11 | [I/O and File Handling](docs/11-io-and-file-handling.md) | Paths, Files, byte/character streams, Scanner, serialization, and best practices |
 | 12 | [Design Patterns](docs/12-design-patterns.md) | Creational, structural, and behavioral patterns with Java examples |
 | 13 | [Testing](docs/13-testing.md) | JUnit 5, assertions, parameterized tests, Mockito, and best practices |
+| 14 | [Build Tools and Dependency Management](docs/14-build-tools.md) | Maven, Gradle, dependency scopes, transitive deps, and conflict resolution |
