@@ -93,3 +93,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 83 | [CORS and CSRF](docs/83-cors-and-csrf.md) | Same-origin policy, preflight, Spring Security CORS config, CSRF tokens, and SameSite |
 | 84 | [RabbitMQ Deep Dive](docs/84-rabbitmq.md) | Exchanges, bindings, DLQ, competing consumers, fanout, topic routing, and RPC |
 | 85 | [Records and Sealed Classes](docs/85-records-and-sealed-classes.md) | Compact constructors, withers, sealed permits, exhaustive switch, and domain errors |
+| 86 | [Spring AOP](docs/86-spring-aop.md) | Aspects, pointcuts, @Around/@Before/@After, custom annotations, and AOP limitations |
+| 87 | [Bean Validation](docs/87-bean-validation.md) | Jakarta Validation, custom constraints, cross-field validation, groups, and error responses |
+| 88 | [Redis Deep Dive](docs/88-redis-deep-dive.md) | Strings, hashes, lists, sets, sorted sets, pub/sub, streams, Lua scripts, distributed locks |
+| 89 | [Spring Retry](docs/89-spring-retry.md) | @Retryable, exponential backoff, jitter, @Recover fallbacks, and RetryTemplate |
+| 90 | [Advanced Generics](docs/90-advanced-generics.md) | Wildcards, bounds, PECS, type erasure, super-type tokens, and recursive bounds |
+| 91 | [HTTP Clients](docs/91-http-clients.md) | RestClient, WebClient, Feign, interceptors, timeouts, and parallel calls |
+| 92 | [API Pagination](docs/92-api-pagination.md) | Offset, keyset, cursor pagination, Pageable, Slice, and Link headers |
+| 93 | [Webhooks](docs/93-webhooks.md) | Registration, HMAC signing, delivery, retry with backoff, and idempotency |
+| 94 | [Multi-Tenancy](docs/94-multi-tenancy.md) | Discriminator column, schema-per-tenant, separate databases, and tenant routing |
+| 95 | [Java ServiceLoader (SPI)](docs/95-service-loader.md) | Service interfaces, META-INF/services, module-info provides/uses, and lazy loading |
