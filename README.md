@@ -26,3 +26,11 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 16 | [Reflection and Annotations](docs/16-reflection-and-annotations.md) | Inspecting classes at runtime, custom annotations, and annotation-driven frameworks |
 | 17 | [JVM Internals](docs/17-jvm-internals.md) | Heap, GC algorithms, JIT compilation, memory leaks, and diagnostic tools |
 | 18 | [Networking and HTTP](docs/18-networking-and-http.md) | HttpClient, REST requests, JSON with Jackson, TCP/UDP sockets, and WebSockets |
+| 19 | [Enums](docs/19-enums.md) | Enum constants, fields, methods, EnumSet, EnumMap, and enum-based patterns |
+| 20 | [Date and Time API](docs/20-date-and-time.md) | LocalDate, LocalTime, ZonedDateTime, Instant, Duration, Period, and DateTimeFormatter |
+| 21 | [Regular Expressions](docs/21-regular-expressions.md) | Pattern, Matcher, groups, flags, and common regex patterns |
+| 22 | [JDBC and Database Access](docs/22-jdbc-and-databases.md) | Connecting to databases, PreparedStatement, transactions, HikariCP, and the DAO pattern |
+| 23 | [Logging](docs/23-logging.md) | SLF4J, Logback, log levels, MDC, structured JSON logging, and best practices |
+| 24 | [Java Module System](docs/24-java-module-system.md) | module-info.java, requires, exports, opens, uses/provides, and jlink |
+| 25 | [Security](docs/25-security.md) | Hashing, AES/RSA encryption, SecureRandom, TLS, password hashing, and secure coding |
+| 26 | [Internationalization](docs/26-internationalization.md) | Locale, ResourceBundle, MessageFormat, NumberFormat, and locale-aware formatting |
