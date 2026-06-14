@@ -15,3 +15,4 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 5 | [Methods](docs/05-methods.md) | Defining methods, overloading, varargs, and recursion |
 | 6 | [Object-Oriented Programming](docs/06-oop.md) | Classes, encapsulation, inheritance, polymorphism, and abstraction |
 | 7 | [Exception Handling](docs/07-exception-handling.md) | try/catch/finally, custom exceptions, and best practices |
+| 8 | [Collections and Generics](docs/08-collections-and-generics.md) | Generics, List, Set, Map, Queue, and choosing the right collection |
