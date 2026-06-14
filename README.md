@@ -73,3 +73,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 63 | [Test-Driven Development](docs/63-tdd.md) | Red-Green-Refactor, three rules of TDD, AAA pattern, triangulation, and outside-in TDD |
 | 64 | [Load Testing](docs/64-load-testing.md) | Gatling and k6 scenarios, virtual users, percentile thresholds, and CI integration |
 | 65 | [Contract Testing](docs/65-contract-testing.md) | Pact consumer/provider contracts, Pact Broker, can-i-deploy, and Spring Cloud Contract |
+| 66 | [Hexagonal Architecture](docs/66-hexagonal-architecture.md) | Ports & adapters, driving/driven ports, domain isolation, and adapter wiring |
+| 67 | [Distributed Tracing](docs/67-distributed-tracing.md) | OpenTelemetry, Micrometer Tracing, Zipkin, Grafana Tempo, and custom spans |
+| 68 | [Server-Sent Events (SSE)](docs/68-server-sent-events.md) | SseEmitter, reactive Flux SSE, auto-reconnect, and authenticated event streams |
+| 69 | [Elasticsearch](docs/69-elasticsearch.md) | Spring Data Elasticsearch, full-text search, aggregations, and autocomplete |
+| 70 | [Property-Based Testing](docs/70-property-based-testing.md) | jqwik, generators, shrinking, stateful action sequences, and combining with examples |
+| 71 | [BDD with Cucumber](docs/71-bdd-with-cucumber.md) | Gherkin feature files, step definitions, data tables, hooks, and Spring integration |
+| 72 | [Feature Flags](docs/72-feature-flags.md) | Togglz, Unleash, gradual rollout, A/B variants, and kill switches |
+| 73 | [Transactional Outbox Pattern](docs/73-transactional-outbox.md) | Dual-write problem, outbox table, polling publisher, and Debezium CDC |
+| 74 | [Rate Limiting](docs/74-rate-limiting.md) | Bucket4j, token bucket, distributed Redis limits, and Spring Cloud Gateway |
+| 75 | [Clean Architecture](docs/75-clean-architecture.md) | Dependency rule, entities, use cases, interface adapters, and framework ring |
