@@ -64,3 +64,12 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 54 | [Event Sourcing and CQRS](docs/54-event-sourcing-and-cqrs.md) | Event store, aggregate replay, projections, command handlers, and read models |
 | 55 | [GraphQL](docs/55-graphql.md) | Schema SDL, @QueryMapping, @MutationMapping, @BatchMapping, subscriptions, and testing |
 | 56 | [Scheduling](docs/56-scheduling.md) | @Scheduled, cron expressions, async tasks, dynamic scheduling, and Quartz |
+| 57 | [gRPC](docs/57-grpc.md) | Protocol Buffers, service definitions, unary and streaming RPCs, and Spring Boot integration |
+| 58 | [OAuth2 and OIDC](docs/58-oauth2-and-oidc.md) | OAuth2 grant types, Spring OAuth2 Client, resource server JWT validation, and Keycloak |
+| 59 | [Spring Batch](docs/59-spring-batch.md) | Jobs, steps, chunk processing, readers/writers, fault tolerance, and partitioning |
+| 60 | [File Storage (S3 / MinIO)](docs/60-file-storage.md) | AWS SDK v2, Spring Cloud AWS, upload/download, presigned URLs, and local MinIO |
+| 61 | [WebSockets](docs/61-websockets.md) | STOMP over WebSocket, @MessageMapping, SimpMessagingTemplate, and auth |
+| 62 | [Email with Spring Mail](docs/62-email.md) | JavaMailSender, HTML emails, Thymeleaf templates, attachments, and Mailpit |
+| 63 | [Test-Driven Development](docs/63-tdd.md) | Red-Green-Refactor, three rules of TDD, AAA pattern, triangulation, and outside-in TDD |
+| 64 | [Load Testing](docs/64-load-testing.md) | Gatling and k6 scenarios, virtual users, percentile thresholds, and CI integration |
+| 65 | [Contract Testing](docs/65-contract-testing.md) | Pact consumer/provider contracts, Pact Broker, can-i-deploy, and Spring Cloud Contract |
