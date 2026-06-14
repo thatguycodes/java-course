@@ -22,3 +22,6 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 12 | [Design Patterns](docs/12-design-patterns.md) | Creational, structural, and behavioral patterns with Java examples |
 | 13 | [Testing](docs/13-testing.md) | JUnit 5, assertions, parameterized tests, Mockito, and best practices |
 | 14 | [Build Tools and Dependency Management](docs/14-build-tools.md) | Maven, Gradle, dependency scopes, transitive deps, and conflict resolution |
+| 15 | [Modern Java Features](docs/15-modern-java-features.md) | Text blocks, records, sealed classes, pattern matching, and virtual threads (Java 9–21) |
+| 16 | [Reflection and Annotations](docs/16-reflection-and-annotations.md) | Inspecting classes at runtime, custom annotations, and annotation-driven frameworks |
+| 17 | [JVM Internals](docs/17-jvm-internals.md) | Heap, GC algorithms, JIT compilation, memory leaks, and diagnostic tools |
