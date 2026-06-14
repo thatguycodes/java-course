@@ -53,3 +53,14 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 43 | [Caching](docs/43-caching.md) | Spring Cache, Caffeine, Redis, cache-aside, TTL, and cache eviction |
 | 44 | [SOLID Principles](docs/44-solid-principles.md) | SRP, OCP, LSP, ISP, DIP — with violations and fixes |
 | 45 | [REST API Design](docs/45-rest-api-design.md) | Resource naming, status codes, pagination, versioning, error responses, and OpenAPI |
+| 46 | [Optional](docs/46-optional.md) | Creating, transforming, filtering, chaining, and anti-patterns |
+| 47 | [Integration Testing](docs/47-integration-testing.md) | @SpringBootTest, MockMvc, Testcontainers, slice tests, and @ServiceConnection |
+| 48 | [Database Migrations](docs/48-database-migrations.md) | Flyway, Liquibase, versioned migrations, and testing schema changes |
+| 49 | [NoSQL and MongoDB](docs/49-nosql-and-mongodb.md) | Document mapping, Spring Data MongoDB, MongoTemplate, aggregation, and transactions |
+| 50 | [Monitoring and Actuator](docs/50-monitoring-and-actuator.md) | Spring Boot Actuator, Micrometer, custom metrics, Prometheus, and Grafana |
+| 51 | [CI/CD with GitHub Actions](docs/51-ci-cd.md) | Build, test, Docker build/push, deploy workflows, and quality gates |
+| 52 | [Kubernetes](docs/52-kubernetes.md) | Deployments, Services, Ingress, ConfigMaps, Secrets, HPA, and kubectl |
+| 53 | [Domain-Driven Design](docs/53-domain-driven-design.md) | Entities, value objects, aggregates, repositories, domain events, and bounded contexts |
+| 54 | [Event Sourcing and CQRS](docs/54-event-sourcing-and-cqrs.md) | Event store, aggregate replay, projections, command handlers, and read models |
+| 55 | [GraphQL](docs/55-graphql.md) | Schema SDL, @QueryMapping, @MutationMapping, @BatchMapping, subscriptions, and testing |
+| 56 | [Scheduling](docs/56-scheduling.md) | @Scheduled, cron expressions, async tasks, dynamic scheduling, and Quartz |
