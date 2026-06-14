@@ -83,3 +83,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 73 | [Transactional Outbox Pattern](docs/73-transactional-outbox.md) | Dual-write problem, outbox table, polling publisher, and Debezium CDC |
 | 74 | [Rate Limiting](docs/74-rate-limiting.md) | Bucket4j, token bucket, distributed Redis limits, and Spring Cloud Gateway |
 | 75 | [Clean Architecture](docs/75-clean-architecture.md) | Dependency rule, entities, use cases, interface adapters, and framework ring |
+| 76 | [OpenAPI / Swagger](docs/76-openapi-swagger.md) | springdoc-openapi, @Operation, @Schema, Swagger UI, and code generation |
+| 77 | [Java Memory Model](docs/77-java-memory-model.md) | Happens-before, volatile, atomics, synchronized, and memory reordering |
+| 78 | [Event-Driven Architecture](docs/78-event-driven-architecture.md) | Choreography vs orchestration, idempotency, sagas, and schema registry |
+| 79 | [Spring Cloud Config](docs/79-spring-cloud-config.md) | Config server, Git backend, @RefreshScope, Cloud Bus, and encryption |
+| 80 | [Mutation Testing (PIT)](docs/80-mutation-testing.md) | Mutant operators, mutation score, surviving mutants, and CI gating |
+| 81 | [Secrets Management](docs/81-secrets-management.md) | HashiCorp Vault, AWS Secrets Manager, dynamic credentials, and K8s secrets |
+| 82 | [Deployment Strategies](docs/82-deployment-strategies.md) | Blue-green, canary, rolling updates, readiness probes, and zero-downtime DB migrations |
+| 83 | [CORS and CSRF](docs/83-cors-and-csrf.md) | Same-origin policy, preflight, Spring Security CORS config, CSRF tokens, and SameSite |
+| 84 | [RabbitMQ Deep Dive](docs/84-rabbitmq.md) | Exchanges, bindings, DLQ, competing consumers, fanout, topic routing, and RPC |
+| 85 | [Records and Sealed Classes](docs/85-records-and-sealed-classes.md) | Compact constructors, withers, sealed permits, exhaustive switch, and domain errors |
