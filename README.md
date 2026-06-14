@@ -42,3 +42,14 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 32 | [XML Processing](docs/32-xml-processing.md) | DOM, SAX, StAX, JAXB, and XPath |
 | 33 | [Reactive Programming](docs/33-reactive-programming.md) | Project Reactor, Mono, Flux, operators, backpressure, and Spring WebFlux |
 | 34 | [Structured Concurrency](docs/34-structured-concurrency.md) | StructuredTaskScope, ShutdownOnFailure, ShutdownOnSuccess, and virtual threads |
+| 35 | [Inner Classes](docs/35-inner-classes.md) | Non-static inner, static nested, local, and anonymous classes |
+| 36 | [Pattern Matching](docs/36-pattern-matching.md) | instanceof patterns, switch type patterns, guarded patterns, and record deconstruction |
+| 37 | [JSON with Jackson](docs/37-json-with-jackson.md) | ObjectMapper, serialization, deserialization, annotations, JsonNode, and Spring Boot config |
+| 38 | [Performance and Profiling](docs/38-performance-and-profiling.md) | JMH benchmarking, JFR, async-profiler, heap analysis, GC tuning, and common pitfalls |
+| 39 | [Spring Security](docs/39-spring-security.md) | Authentication, JWT, SecurityFilterChain, method security, and CORS |
+| 40 | [Docker and Java](docs/40-docker-and-java.md) | Dockerfiles, multi-stage builds, JVM container flags, Compose, and GraalVM native image |
+| 41 | [Microservices Patterns](docs/41-microservices-patterns.md) | Circuit breaker, retry, bulkhead, API gateway, service discovery, Feign, and Saga |
+| 42 | [Message Queues and Kafka](docs/42-message-queues-and-kafka.md) | Producers, consumers, consumer groups, error handling, dead-letter topics, and RabbitMQ |
+| 43 | [Caching](docs/43-caching.md) | Spring Cache, Caffeine, Redis, cache-aside, TTL, and cache eviction |
+| 44 | [SOLID Principles](docs/44-solid-principles.md) | SRP, OCP, LSP, ISP, DIP — with violations and fixes |
+| 45 | [REST API Design](docs/45-rest-api-design.md) | Resource naming, status codes, pagination, versioning, error responses, and OpenAPI |
