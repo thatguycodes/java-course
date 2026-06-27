@@ -183,3 +183,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 173 | [Java Memory Leak Analysis](docs/173-java-memory-leak-analysis.md) | Heap dumps, Eclipse MAT, dominator tree, OQL, and common leak patterns |
 | 174 | [AsyncAPI Specification](docs/174-asyncapi.md) | Event-driven API contracts, channels, message schemas, Kafka bindings, and code generation |
 | 175 | [Gradle Advanced](docs/175-gradle-advanced.md) | Multi-module builds, version catalogs, convention plugins, build cache, and custom tasks |
+| 176 | [PDF Generation](docs/176-pdf-generation.md) | Apache PDFBox, OpenPDF, creating tables, filling forms, merging, and HTTP download |
+| 177 | [JWT Deep Dive](docs/177-jwt-deep-dive.md) | JWT structure, RS256/ES256, JWKS endpoint, refresh tokens, rotation, and Redis revocation |
+| 178 | [JVM Thread Dump Analysis](docs/178-thread-dump-analysis.md) | jstack, thread states, deadlock detection, ThreadMXBean, and common patterns |
+| 179 | [UUID Strategies & Distributed IDs](docs/179-uuid-strategies.md) | UUID v4/v7, ULID, TSID, NanoID, and B-tree index fragmentation implications |
+| 180 | [HTTP Caching — ETag & Cache-Control](docs/180-http-caching.md) | Cache-Control directives, ETag, conditional GET, ShallowEtagHeaderFilter, and conditional PUT |
+| 181 | [Chaos Engineering with Spring](docs/181-chaos-engineering.md) | Chaos Monkey for Spring Boot, latency/exception/kill assaults, and CI resilience validation |
+| 182 | [Reactor Kafka — Reactive Kafka Client](docs/182-reactor-kafka.md) | KafkaSender, KafkaReceiver, backpressure, manual offset commit, and exactly-once transactions |
+| 183 | [API Idempotency Patterns](docs/183-api-idempotency.md) | Idempotency-Key header, Redis token store, conditional PUT with ETag, and client retry strategy |
+| 184 | [JVM Ergonomics & Container Awareness](docs/184-jvm-ergonomics.md) | UseContainerSupport, MaxRAMPercentage, GC selection heuristics, and Kubernetes resource limits |
+| 185 | [Apache Pulsar with Spring Pulsar](docs/185-apache-pulsar.md) | PulsarTemplate, @PulsarListener, subscription types, schema support, DLQ, and reactive client |
