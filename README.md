@@ -123,3 +123,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 113 | [Advanced Stream Collectors](docs/113-advanced-stream-collectors.md) | groupingBy, teeing, partitioningBy, flatMapping, custom Collector, and parallel streams |
 | 114 | [Spring REST Docs](docs/114-spring-rest-docs.md) | Test-driven API docs, AsciiDoc snippets, request/response fields, and OpenAPI export |
 | 115 | [Saga Pattern Deep Dive](docs/115-saga-pattern.md) | Choreography vs orchestration, compensating transactions, idempotency, and recovery |
+| 116 | [Spring Data JPA Projections & Specifications](docs/116-jpa-projections-specifications.md) | Interface/DTO projections, dynamic projections, Specification<T>, and Querydsl |
+| 117 | [JPA Advanced — Inheritance, Embeddables & Auditing](docs/117-jpa-advanced.md) | SINGLE_TABLE/JOINED, @Embedded, @ElementCollection, @CreatedDate, @Version, 2LC |
+| 118 | [Functional Web (WebFlux.fn)](docs/118-functional-web.md) | RouterFunction, HandlerFunction, HandlerFilterFunction, predicates, and no-server testing |
+| 119 | [Reactive Security](docs/119-reactive-security.md) | SecurityWebFilterChain, ReactiveUserDetailsService, ReactiveJwtDecoder, method security |
+| 120 | [Spring Cloud Service Discovery](docs/120-service-discovery.md) | Eureka, Consul, @LoadBalanced, DiscoveryClient, and Kubernetes DNS |
+| 121 | [Kafka Advanced](docs/121-kafka-advanced.md) | Exactly-once semantics, transactions, partition strategies, and consumer lag monitoring |
+| 122 | [Distributed Locking](docs/122-distributed-locking.md) | Redisson RLock, Redis SETNX, PostgreSQL advisory locks, ShedLock, and fencing tokens |
+| 123 | [Spring AI](docs/123-spring-ai.md) | ChatClient, prompt templates, structured output, function calling, RAG, and vector stores |
+| 124 | [jOOQ](docs/124-jooq.md) | Type-safe SQL DSL, code generation, joins, CTEs, window functions, and batch operations |
+| 125 | [Micrometer Observation API](docs/125-micrometer-observation.md) | Observation, low/high cardinality keys, @Observed, ObservationHandler, unified signals |
