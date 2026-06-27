@@ -103,3 +103,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 93 | [Webhooks](docs/93-webhooks.md) | Registration, HMAC signing, delivery, retry with backoff, and idempotency |
 | 94 | [Multi-Tenancy](docs/94-multi-tenancy.md) | Discriminator column, schema-per-tenant, separate databases, and tenant routing |
 | 95 | [Java ServiceLoader (SPI)](docs/95-service-loader.md) | Service interfaces, META-INF/services, module-info provides/uses, and lazy loading |
+| 96 | [Lombok](docs/96-lombok.md) | @Getter/@Setter, @Builder, @Data, @Value, @Slf4j, @NonNull, and JPA entity caveats |
+| 97 | [MapStruct](docs/97-mapstruct.md) | @Mapper, @Mapping, nested mappers, @MappingTarget, null strategies, and Lombok ordering |
+| 98 | [Code Quality Tools](docs/98-code-quality.md) | Checkstyle, SpotBugs, PMD, JaCoCo coverage gates, and SonarQube integration |
+| 99 | [OWASP Top 10 for Java](docs/99-owasp-top-10.md) | Injection, broken access control, XSS, insecure deserialization, and SSRF — with fixes |
+| 100 | [GraalVM Native Image](docs/100-graalvm-native.md) | AOT compilation, Spring AOT hints, RuntimeHintsRegistrar, native Docker, and limitations |
+| 101 | [Log Aggregation](docs/101-log-aggregation.md) | Loki + Promtail, ELK stack, LogQL queries, log-trace correlation, and Kubernetes Fluent Bit |
+| 102 | [HikariCP & Connection Pool Tuning](docs/102-hikaricp.md) | Pool sizing formula, timeout settings, Micrometer metrics, leak detection, and multi-datasource |
+| 103 | [Java Anti-Patterns](docs/103-anti-patterns.md) | Anemic model, God class, service locator, primitive obsession, N+1, broad @Transactional |
+| 104 | [Spring HATEOAS](docs/104-spring-hateoas.md) | EntityModel, CollectionModel, PagedModel, LinkBuilder, affordances, and HAL responses |
+| 105 | [Database Indexing & Query Optimisation](docs/105-database-indexing.md) | B-tree, partial, covering, GIN indexes, EXPLAIN ANALYZE, N+1 fixes, and index maintenance |
