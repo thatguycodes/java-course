@@ -173,3 +173,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 163 | [Apache POI — Excel & Document Generation](docs/163-apache-poi.md) | XSSF workbooks, SXSSF streaming, reading uploads, Word docs, and HTTP file download |
 | 164 | [OpenAPI Code Generation](docs/164-openapi-code-generation.md) | Contract-first REST, openapi-generator plugin, server stubs, client SDKs, and CI validation |
 | 165 | [Read Replicas & Multi-DataSource](docs/165-read-replicas-multi-datasource.md) | AbstractRoutingDataSource, LazyConnectionDataSourceProxy, replica routing, and lag monitoring |
+| 166 | [Spring Boot Testing Slices](docs/166-spring-boot-testing-slices.md) | @WebMvcTest, @DataJpaTest, @JsonTest, @RestClientTest, @DataMongoTest, and @WebFluxTest |
+| 167 | [Helm Charts](docs/167-helm-charts.md) | Chart structure, values.yaml, templates, _helpers.tpl, HPA, and helm upgrade --install |
+| 168 | [Spring Security OAuth2 Client](docs/168-spring-security-oauth2-client.md) | Client credentials, token relay, OAuth2AuthorizedClientManager, and reactive client |
+| 169 | [OpenTelemetry Manual Instrumentation](docs/169-opentelemetry-manual-instrumentation.md) | Custom spans, baggage, OTel Metrics API, async context propagation, and @WithSpan |
+| 170 | [Temporal Workflow Engine](docs/170-temporal-workflow.md) | @WorkflowInterface, @ActivityInterface, signals, queries, timers, and child workflows |
+| 171 | [Spring Boot Profiles Deep Dive](docs/171-spring-boot-profiles.md) | @Profile, profile groups, multi-document YAML, @ConditionalOnProperty, and test profiles |
+| 172 | [Spring MVC Interceptors & Argument Resolvers](docs/172-spring-mvc-interceptors-argument-resolvers.md) | HandlerInterceptor, @CurrentUser resolver, WebMvcConfigurer, and custom converters |
+| 173 | [Java Memory Leak Analysis](docs/173-java-memory-leak-analysis.md) | Heap dumps, Eclipse MAT, dominator tree, OQL, and common leak patterns |
+| 174 | [AsyncAPI Specification](docs/174-asyncapi.md) | Event-driven API contracts, channels, message schemas, Kafka bindings, and code generation |
+| 175 | [Gradle Advanced](docs/175-gradle-advanced.md) | Multi-module builds, version catalogs, convention plugins, build cache, and custom tasks |
