@@ -143,3 +143,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 133 | [Database Sharding & Partitioning](docs/133-database-sharding.md) | Hash/range sharding, consistent hashing, AbstractRoutingDataSource, and PostgreSQL partitioning |
 | 134 | [Spring Integration](docs/134-spring-integration.md) | Enterprise integration patterns, MessageChannel, transformers, routers, aggregators, Kafka adapter |
 | 135 | [gRPC Advanced](docs/135-grpc-advanced.md) | Server/client/bidirectional streaming, interceptors, deadlines, status codes, and cancellation |
+| 136 | [Java Concurrency Utilities](docs/136-concurrency-utilities.md) | Semaphore, CountDownLatch, CyclicBarrier, Phaser, StampedLock, and Exchanger |
+| 137 | [Spring Shell & CLI Tools](docs/137-spring-shell.md) | @ShellComponent, @ShellMethod, completion, availability conditions, and ANSI output |
+| 138 | [Hibernate Envers](docs/138-hibernate-envers.md) | @Audited, custom revision entity, AuditReader queries, and RevisionRepository |
+| 139 | [Spring Data REST](docs/139-spring-data-rest.md) | Auto-expose repos as HAL endpoints, projections, event handlers, validators, and resource processors |
+| 140 | [Jackson Advanced](docs/140-jackson-advanced.md) | Custom serializers/deserializers, mixins, polymorphic types, @JsonView, and modules |
+| 141 | [GC Tuning & JVM Diagnostics](docs/141-gc-tuning.md) | G1/ZGC/Shenandoah flags, GC log analysis, heap dumps, jcmd, and async-profiler flamegraphs |
+| 142 | [Zero-Downtime Database Migrations](docs/142-zero-downtime-migrations.md) | Expand/contract pattern, safe NOT NULL columns, CONCURRENTLY indexes, and batched backfills |
+| 143 | [Spring Web Services (SOAP)](docs/143-spring-web-services.md) | Contract-first WSDL/XSD, @Endpoint, JAXB marshalling, WebServiceTemplate, and WS-Security |
+| 144 | [Java Agents & Bytecode Instrumentation](docs/144-java-agents.md) | premain/agentmain, ClassFileTransformer, ByteBuddy, dynamic attach, and OpenTelemetry agent |
+| 145 | [Reactive Caching](docs/145-reactive-caching.md) | CacheMono/CacheFlux, Caffeine, ReactiveRedisTemplate, Mono.cache(), and cache invalidation |
