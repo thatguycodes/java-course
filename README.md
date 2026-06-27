@@ -113,3 +113,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 103 | [Java Anti-Patterns](docs/103-anti-patterns.md) | Anemic model, God class, service locator, primitive obsession, N+1, broad @Transactional |
 | 104 | [Spring HATEOAS](docs/104-spring-hateoas.md) | EntityModel, CollectionModel, PagedModel, LinkBuilder, affordances, and HAL responses |
 | 105 | [Database Indexing & Query Optimisation](docs/105-database-indexing.md) | B-tree, partial, covering, GIN indexes, EXPLAIN ANALYZE, N+1 fixes, and index maintenance |
+| 106 | [Resilience4j](docs/106-resilience4j.md) | Circuit Breaker, Retry, Rate Limiter, Bulkhead, TimeLimiter, and Micrometer metrics |
+| 107 | [Spring Cloud Gateway](docs/107-spring-cloud-gateway.md) | Routing, predicates, filters, rate limiting, circuit breaker, and canary deployments |
+| 108 | [R2DBC — Reactive Relational Database](docs/108-r2dbc.md) | ReactiveCrudRepository, DatabaseClient, transactions, and Testcontainers integration |
+| 109 | [Spring Authorization Server](docs/109-spring-authorization-server.md) | OAuth2/OIDC server, RegisteredClient, PKCE, token customisation, and persistent storage |
+| 110 | [Spring Modulith](docs/110-spring-modulith.md) | Application modules, boundary enforcement, @ApplicationModuleListener, and module tests |
+| 111 | [Virtual Threads Deep Dive](docs/111-virtual-threads.md) | Project Loom, mounting/unmounting, pinning, ScopedValue, and StructuredTaskScope |
+| 112 | [Kafka Streams](docs/112-kafka-streams.md) | KStream, KTable, windowed aggregations, stream-table joins, and TopologyTestDriver |
+| 113 | [Advanced Stream Collectors](docs/113-advanced-stream-collectors.md) | groupingBy, teeing, partitioningBy, flatMapping, custom Collector, and parallel streams |
+| 114 | [Spring REST Docs](docs/114-spring-rest-docs.md) | Test-driven API docs, AsciiDoc snippets, request/response fields, and OpenAPI export |
+| 115 | [Saga Pattern Deep Dive](docs/115-saga-pattern.md) | Choreography vs orchestration, compensating transactions, idempotency, and recovery |
