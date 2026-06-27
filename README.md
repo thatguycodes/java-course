@@ -133,3 +133,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 123 | [Spring AI](docs/123-spring-ai.md) | ChatClient, prompt templates, structured output, function calling, RAG, and vector stores |
 | 124 | [jOOQ](docs/124-jooq.md) | Type-safe SQL DSL, code generation, joins, CTEs, window functions, and batch operations |
 | 125 | [Micrometer Observation API](docs/125-micrometer-observation.md) | Observation, low/high cardinality keys, @Observed, ObservationHandler, unified signals |
+| 126 | [Apache Avro & Schema Registry](docs/126-avro-schema-registry.md) | Avro schemas, code generation, schema evolution, compatibility modes, and Confluent Registry |
+| 127 | [Spring Data Cassandra](docs/127-spring-data-cassandra.md) | Wide-column NoSQL, partition/clustering keys, reactive repository, TTL, and consistency levels |
+| 128 | [CompletableFuture Deep Dive](docs/128-completablefuture.md) | thenCompose, thenCombine, allOf, anyOf, timeouts, error recovery, and virtual thread comparison |
+| 129 | [Spring Boot Custom Auto-Configuration](docs/129-custom-auto-configuration.md) | @AutoConfiguration, @Conditional annotations, custom starters, metadata, and testing |
+| 130 | [Java NIO & Asynchronous I/O](docs/130-java-nio.md) | Buffers, channels, Selector, AsynchronousFileChannel, WatchService, and NIO.2 Files API |
+| 131 | [Service Mesh & Istio](docs/131-service-mesh-istio.md) | Sidecar proxy, mTLS, VirtualService, DestinationRule, circuit breaking, and fault injection |
+| 132 | [Axon Framework](docs/132-axon-framework.md) | CQRS/ES with Axon, aggregates, projections, sagas, command/query/event gateways |
+| 133 | [Database Sharding & Partitioning](docs/133-database-sharding.md) | Hash/range sharding, consistent hashing, AbstractRoutingDataSource, and PostgreSQL partitioning |
+| 134 | [Spring Integration](docs/134-spring-integration.md) | Enterprise integration patterns, MessageChannel, transformers, routers, aggregators, Kafka adapter |
+| 135 | [gRPC Advanced](docs/135-grpc-advanced.md) | Server/client/bidirectional streaming, interceptors, deadlines, status codes, and cancellation |
