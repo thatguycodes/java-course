@@ -163,3 +163,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 153 | [Vavr — Functional Java](docs/153-vavr.md) | Option, Try, Either, Validated, Tuple, immutable collections, and pattern matching |
 | 154 | [Apache Camel](docs/154-apache-camel.md) | Routes, Java DSL, content-based router, splitter/aggregator, Kafka, and error handling |
 | 155 | [Java 22–25 New Language Features](docs/155-java-22-25-features.md) | Sequenced Collections, unnamed patterns, String Templates, Gatherers, FFM API, and Value Objects |
+| 156 | [Spring Cloud Stream](docs/156-spring-cloud-stream.md) | Function/Consumer/Supplier beans, Kafka/RabbitMQ binders, StreamBridge, DLQ, and partitioning |
+| 157 | [Spring MVC Exception Handling & Problem Details](docs/157-exception-handling-problem-details.md) | @ExceptionHandler, @ControllerAdvice, ProblemDetail RFC 9457, and validation error responses |
+| 158 | [Testcontainers Deep Dive](docs/158-testcontainers-deep-dive.md) | @ServiceConnection, reusable containers, WireMock, LocalStack, and dynamic property source |
+| 159 | [Java Flight Recorder (JFR) Deep Dive](docs/159-java-flight-recorder.md) | Custom JFR events, JFR streaming API, jcmd recording, JDK Mission Control, and continuous profiling |
+| 160 | [Spring Cloud Function & Serverless](docs/160-spring-cloud-function-serverless.md) | Function beans, AWS Lambda adapter, routing, GraalVM native, and cold start strategies |
+| 161 | [Kafka Connect & Debezium CDC](docs/161-kafka-connect-debezium.md) | Source/sink connectors, Debezium PostgreSQL CDC, SMTs, JDBC sink, and connector management |
+| 162 | [Spring Security Method Security](docs/162-spring-security-method-security.md) | @PreAuthorize, @PostAuthorize, @PreFilter/@PostFilter, PermissionEvaluator, and reactive security |
+| 163 | [Apache POI — Excel & Document Generation](docs/163-apache-poi.md) | XSSF workbooks, SXSSF streaming, reading uploads, Word docs, and HTTP file download |
+| 164 | [OpenAPI Code Generation](docs/164-openapi-code-generation.md) | Contract-first REST, openapi-generator plugin, server stubs, client SDKs, and CI validation |
+| 165 | [Read Replicas & Multi-DataSource](docs/165-read-replicas-multi-datasource.md) | AbstractRoutingDataSource, LazyConnectionDataSourceProxy, replica routing, and lag monitoring |
