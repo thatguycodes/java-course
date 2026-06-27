@@ -153,3 +153,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 143 | [Spring Web Services (SOAP)](docs/143-spring-web-services.md) | Contract-first WSDL/XSD, @Endpoint, JAXB marshalling, WebServiceTemplate, and WS-Security |
 | 144 | [Java Agents & Bytecode Instrumentation](docs/144-java-agents.md) | premain/agentmain, ClassFileTransformer, ByteBuddy, dynamic attach, and OpenTelemetry agent |
 | 145 | [Reactive Caching](docs/145-reactive-caching.md) | CacheMono/CacheFlux, Caffeine, ReactiveRedisTemplate, Mono.cache(), and cache invalidation |
+| 146 | [Spring Events & ApplicationEventPublisher](docs/146-spring-events.md) | @EventListener, @TransactionalEventListener, async events, ordering, and event chaining |
+| 147 | [Spring Data JDBC](docs/147-spring-data-jdbc.md) | Aggregate roots, @MappedCollection, @Embedded, JdbcClient, and lifecycle callbacks |
+| 148 | [JMS & Spring JMS](docs/148-jms-spring-jms.md) | JmsTemplate, @JmsListener, topics vs queues, dead letter queues, and JMS transactions |
+| 149 | [Reactive Testing — StepVerifier & WebTestClient](docs/149-reactive-testing.md) | StepVerifier, virtual time, TestPublisher, WebTestClient, and SSE stream assertions |
+| 150 | [Spring Boot @ConfigurationProperties](docs/150-configuration-properties.md) | Typed config binding, nested objects, validation, records, and IDE metadata |
+| 151 | [Spring Session](docs/151-spring-session.md) | Distributed sessions with Redis/JDBC, session events, security integration, and cookie config |
+| 152 | [JVM Startup Optimization — AppCDS & CRaC](docs/152-jvm-startup-optimization.md) | Application CDS, AOT processing, Checkpoint/Restore, and startup time comparison |
+| 153 | [Vavr — Functional Java](docs/153-vavr.md) | Option, Try, Either, Validated, Tuple, immutable collections, and pattern matching |
+| 154 | [Apache Camel](docs/154-apache-camel.md) | Routes, Java DSL, content-based router, splitter/aggregator, Kafka, and error handling |
+| 155 | [Java 22–25 New Language Features](docs/155-java-22-25-features.md) | Sequenced Collections, unnamed patterns, String Templates, Gatherers, FFM API, and Value Objects |
