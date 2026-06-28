@@ -233,3 +233,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 223 | [GraphQL Subscriptions](docs/223-graphql-subscriptions.md) | @SubscriptionMapping, Flux<T>, WebSocket and SSE transport, Kafka-backed streams, auth |
 | 224 | [Java Serialization Security](docs/224-java-serialization-security.md) | Gadget chains, ObjectInputFilter allowlist, HMAC signing, safe alternatives (JSON/Protobuf) |
 | 225 | [Kafka AdminClient](docs/225-kafka-admin-client.md) | Topic creation/deletion, partition management, consumer lag, offset reset, ACLs, config changes |
+| 226 | [Liquibase Deep Dive](docs/226-liquibase-deep-dive.md) | XML/YAML changesets, rollback, preconditions, contexts/labels, diff, generateChangeLog, CI plugin |
+| 227 | [Spring Security ACL](docs/227-spring-security-acl.md) | Domain object permissions, ACL tables, AclPermissionEvaluator, hasPermission SpEL, MutableAclService |
+| 228 | [Spring Boot Graceful Shutdown](docs/228-graceful-shutdown.md) | server.shutdown=graceful, SmartLifecycle, Kafka/scheduler drain, K8s preStop hooks, readiness probe |
+| 229 | [Netty Deep Dive](docs/229-netty-deep-dive.md) | ChannelPipeline, EventLoop, ByteBuf, custom protocol encoder/decoder, off-EventLoop blocking work |
+| 230 | [Spring MVC Content Negotiation](docs/230-content-negotiation.md) | Accept header, format parameter, HttpMessageConverter, custom CSV converter, 406 handling |
+| 231 | [Redis Streams](docs/231-redis-streams.md) | XADD/XREAD/XACK, consumer groups, PEL, XAUTOCLAIM recovery, dead-letter, StreamMessageListenerContainer |
+| 232 | [Spring Data MongoDB Aggregation](docs/232-mongodb-aggregation.md) | $match/$group/$lookup/$unwind/$facet/$bucket, TypedAggregation, @Aggregation repository methods |
+| 233 | [HTTP/2 with Spring Boot](docs/233-http2-spring-boot.md) | ALPN negotiation, h2/h2c, Tomcat/Netty config, RestClient/WebClient HTTP/2, HPACK, K8s ingress |
+| 234 | [Java Foreign Function & Memory API](docs/234-foreign-function-memory-api.md) | Project Panama, Arena, MemorySegment, MemoryLayout, Linker, downcall/upcall handles, jextract |
+| 235 | [Prometheus Alerting](docs/235-prometheus-alerting.md) | Alert rules, recording rules, Alertmanager routing/grouping/inhibition, burn rate SLO alerts |
