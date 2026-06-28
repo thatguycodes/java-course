@@ -243,3 +243,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 233 | [HTTP/2 with Spring Boot](docs/233-http2-spring-boot.md) | ALPN negotiation, h2/h2c, Tomcat/Netty config, RestClient/WebClient HTTP/2, HPACK, K8s ingress |
 | 234 | [Java Foreign Function & Memory API](docs/234-foreign-function-memory-api.md) | Project Panama, Arena, MemorySegment, MemoryLayout, Linker, downcall/upcall handles, jextract |
 | 235 | [Prometheus Alerting](docs/235-prometheus-alerting.md) | Alert rules, recording rules, Alertmanager routing/grouping/inhibition, burn rate SLO alerts |
+| 236 | [Spring Data Redis Repositories](docs/236-spring-data-redis-repositories.md) | @RedisHash, @Indexed, @TimeToLive, KeyValueTemplate, keyspace notifications, secondary index queries |
+| 237 | [Actuator Custom Endpoints](docs/237-actuator-custom-endpoints.md) | @Endpoint, @ReadOperation/@WriteOperation/@DeleteOperation, @Selector, custom HealthIndicator, InfoContributor |
+| 238 | [PostgreSQL Full-Text Search](docs/238-postgresql-full-text-search.md) | tsvector/tsquery, GIN index, to_tsvector, websearch_to_tsquery, ts_rank, ts_headline, trigger-maintained column |
+| 239 | [Hazelcast](docs/239-hazelcast.md) | IMap, EntryProcessor, near cache, HazelcastCacheManager, CP Subsystem (FencedLock/IAtomicLong/ISemaphore) |
+| 240 | [Spring Batch Advanced](docs/240-spring-batch-advanced.md) | Multi-threaded steps, parallel flows, local/remote partitioning, skip/retry policies, conditional flows |
+| 241 | [WebFlux Error Handling](docs/241-webflux-error-handling.md) | onErrorResume/onErrorReturn/onErrorMap, WebExceptionHandler, @ExceptionHandler, Retry.backoff(), WebClient onStatus() |
+| 242 | [Spring Cloud Bus](docs/242-spring-cloud-bus.md) | Broadcast @RefreshScope config refresh, RabbitMQ/Kafka bus, selective refresh, custom RemoteApplicationEvent |
+| 243 | [Java Vector API](docs/243-java-vector-api.md) | SIMD via VectorSpecies, FloatVector/IntVector, lanes, masks, fma, shuffles, JMH benchmarking |
+| 244 | [CloudEvents](docs/244-cloudevents.md) | CNCF CloudEvents v1.0, CloudEventBuilder, structured/binary mode, Kafka binding, Spring Cloud Function |
+| 245 | [Apache Kafka Security](docs/245-kafka-security.md) | SASL/PLAIN, SASL/SCRAM-SHA-256, mTLS, OAUTHBEARER, ACLs, AclBinding, SslBundles, K8s Secrets |
