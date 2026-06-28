@@ -203,3 +203,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 193 | [Spring Security SAML2](docs/193-spring-security-saml2.md) | Enterprise SSO with Okta/Azure AD, SP metadata, attribute extraction, and dynamic registration |
 | 194 | [Data Masking & GDPR Compliance](docs/194-data-masking-gdpr.md) | PII masking in logs, column encryption, right-to-erasure, pseudonymisation, and audit trails |
 | 195 | [Flyway Advanced](docs/195-flyway-advanced.md) | Java migrations, callbacks, repair, baseline, dry-run, placeholders, and CI validation |
+| 196 | [Spring Transaction Management Deep Dive](docs/196-spring-transactions.md) | Propagation levels, isolation, rollback rules, self-invocation pitfall, and TransactionTemplate |
+| 197 | [@Async & Spring Task Execution](docs/197-async-spring-task-execution.md) | @EnableAsync, ThreadPoolTaskExecutor, CompletableFuture, fan-out, and async error handling |
+| 198 | [Weak, Soft & Phantom References](docs/198-weak-soft-phantom-references.md) | SoftReference, WeakReference, PhantomReference, ReferenceQueue, WeakHashMap, and Cleaner |
+| 199 | [Spring State Machine](docs/199-spring-state-machine.md) | States, transitions, guards, actions, JPA persistence, listeners, and StateMachineTestPlan |
+| 200 | [Apache Commons & Google Guava](docs/200-commons-guava.md) | StringUtils, StopWatch, CollectionUtils, ImmutableList, Multimap, Table, Preconditions, RangeMap |
+| 201 | [Java Process API](docs/201-java-process-api.md) | ProcessBuilder, Process, ProcessHandle, I/O redirection, pipeline, and subprocess management |
+| 202 | [mTLS & Certificate Management](docs/202-mtls-certificates.md) | Mutual TLS, keystores, truststores, PKCS12, Spring Boot TLS config, and certificate rotation |
+| 203 | [Spring LDAP](docs/203-spring-ldap.md) | LdapTemplate, @Entry ODM, LdapRepository, Spring Security LDAP auth, and Active Directory |
+| 204 | [Micrometer Metrics Deep Dive](docs/204-micrometer-metrics.md) | Counter, Gauge, Timer, DistributionSummary, percentile histograms, SLO buckets, and MeterFilter |
+| 205 | [QR Code & Barcode Generation](docs/205-qr-barcode-generation.md) | ZXing QR codes, Code128, EAN-13, PDF417, HTTP image responses, decoding, and TOTP setup |
