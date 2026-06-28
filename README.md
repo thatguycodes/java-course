@@ -213,3 +213,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 203 | [Spring LDAP](docs/203-spring-ldap.md) | LdapTemplate, @Entry ODM, LdapRepository, Spring Security LDAP auth, and Active Directory |
 | 204 | [Micrometer Metrics Deep Dive](docs/204-micrometer-metrics.md) | Counter, Gauge, Timer, DistributionSummary, percentile histograms, SLO buckets, and MeterFilter |
 | 205 | [QR Code & Barcode Generation](docs/205-qr-barcode-generation.md) | ZXing QR codes, Code128, EAN-13, PDF417, HTTP image responses, decoding, and TOTP setup |
+| 206 | [JMH Microbenchmarking](docs/206-jmh-microbenchmarking.md) | @Benchmark, benchmark modes, @State, @Fork, Blackhole, @Param, and common JIT pitfalls |
+| 207 | [Spring Cache Abstraction](docs/207-spring-cache-abstraction.md) | @Cacheable, @CacheEvict, @CachePut, @Caching, CacheManager, Redis TTL config, and KeyGenerator |
+| 208 | [Java Image Processing](docs/208-java-image-processing.md) | BufferedImage, ImageIO, Graphics2D, scaling, cropping, watermarking, rotation, and Thumbnailator |
+| 209 | [Strangler Fig & Anti-Corruption Layer](docs/209-strangler-fig.md) | Incremental legacy migration, facade routing, model translation, CDC sync, and canary rollout |
+| 210 | [Apache Tika — Document Parsing](docs/210-apache-tika.md) | MIME detection, text and metadata extraction, Office/PDF/HTML parsers, and archive recursion |
+| 211 | [DynamoDB with Spring](docs/211-dynamodb.md) | Enhanced client, @DynamoDbBean, GSI queries, batch operations, transactions, and converters |
+| 212 | [Spring Data Elasticsearch Deep Dive](docs/212-spring-data-elasticsearch.md) | Full-text search, aggregations, highlights, nested objects, bulk indexing, and alias reindex |
+| 213 | [Java Scripting API & GraalVM Polyglot](docs/213-java-scripting-graalvm.md) | JSR-223 ScriptEngine, GraalVM Context, bidirectional interop, rule engine, and sandboxing |
+| 214 | [Continuous Profiling with async-profiler](docs/214-continuous-profiling.md) | CPU/alloc/wall/lock profiling, flame graphs, JFR, Pyroscope integration, and pitfall checklist |
+| 215 | [Protocol Buffers Deep Dive](docs/215-protobuf-deep-dive.md) | Proto3 schema, field numbers, oneof/map, serialization, JSON interop, schema evolution, Kafka |
