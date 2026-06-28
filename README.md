@@ -223,3 +223,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 213 | [Java Scripting API & GraalVM Polyglot](docs/213-java-scripting-graalvm.md) | JSR-223 ScriptEngine, GraalVM Context, bidirectional interop, rule engine, and sandboxing |
 | 214 | [Continuous Profiling with async-profiler](docs/214-continuous-profiling.md) | CPU/alloc/wall/lock profiling, flame graphs, JFR, Pyroscope integration, and pitfall checklist |
 | 215 | [Protocol Buffers Deep Dive](docs/215-protobuf-deep-dive.md) | Proto3 schema, field numbers, oneof/map, serialization, JSON interop, schema evolution, Kafka |
+| 216 | [Spring Boot Admin](docs/216-spring-boot-admin.md) | Admin UI over Actuator, client registration, health dashboard, log-level management, notifications |
+| 217 | [Java Money (JSR 354 / Moneta)](docs/217-java-money.md) | MonetaryAmount, CurrencyUnit, rounding, MonetaryOperator, Jackson/JPA integration, currency conversion |
+| 218 | [OpenTelemetry Collector](docs/218-opentelemetry-collector.md) | Receivers, processors, exporters, tail sampling, attribute scrubbing, K8s DaemonSet deployment |
+| 219 | [Spring Security HTTP Security Headers](docs/219-http-security-headers.md) | CSP, HSTS, X-Frame-Options, Permissions-Policy, COOP/COEP, nonce-based CSP for SPAs |
+| 220 | [Spring Cloud Kubernetes](docs/220-spring-cloud-kubernetes.md) | ConfigMap/Secret injection, service discovery, RBAC, config reload, leader election, probes |
+| 221 | [Lock-Free Concurrency](docs/221-lock-free-concurrency.md) | CAS, AtomicReference, LongAdder, VarHandle, ABA problem, Treiber Stack, Michael-Scott Queue |
+| 222 | [Jasypt — Encrypted Properties](docs/222-jasypt-encrypted-properties.md) | ENC() wrapper, master key via env var, PBEWITHHMACSHA512ANDAES_256, CI/CD integration |
+| 223 | [GraphQL Subscriptions](docs/223-graphql-subscriptions.md) | @SubscriptionMapping, Flux<T>, WebSocket and SSE transport, Kafka-backed streams, auth |
+| 224 | [Java Serialization Security](docs/224-java-serialization-security.md) | Gadget chains, ObjectInputFilter allowlist, HMAC signing, safe alternatives (JSON/Protobuf) |
+| 225 | [Kafka AdminClient](docs/225-kafka-admin-client.md) | Topic creation/deletion, partition management, consumer lag, offset reset, ACLs, config changes |
