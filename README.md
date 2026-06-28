@@ -193,3 +193,13 @@ A structured guide to core Java concepts, from how the JVM works to object-orien
 | 183 | [API Idempotency Patterns](docs/183-api-idempotency.md) | Idempotency-Key header, Redis token store, conditional PUT with ETag, and client retry strategy |
 | 184 | [JVM Ergonomics & Container Awareness](docs/184-jvm-ergonomics.md) | UseContainerSupport, MaxRAMPercentage, GC selection heuristics, and Kubernetes resource limits |
 | 185 | [Apache Pulsar with Spring Pulsar](docs/185-apache-pulsar.md) | PulsarTemplate, @PulsarListener, subscription types, schema support, DLQ, and reactive client |
+| 186 | [ArchUnit — Architecture Testing](docs/186-archunit.md) | Enforce layer rules, naming conventions, cycle detection, and custom conditions in tests |
+| 187 | [Spring Data Neo4j](docs/187-spring-data-neo4j.md) | Graph database with @Node, @Relationship, Cypher queries, path traversal, and recommendations |
+| 188 | [RSocket](docs/188-rsocket.md) | Request-response, fire-and-forget, request-stream, and bidirectional channel with Spring Boot |
+| 189 | [LangChain4j — LLM Integration](docs/189-langchain4j.md) | @AiService, prompt templates, tool calling, RAG pipeline, structured output, and streaming |
+| 190 | [Java Annotation Processing (APT)](docs/190-annotation-processing.md) | AbstractProcessor, Filer, Messager, code generation, and compile-time validation |
+| 191 | [Quartz Scheduler Deep Dive](docs/191-quartz-scheduler.md) | JDBC JobStore, clustering, CronTrigger, JobDataMap, misfire handling, and job listeners |
+| 192 | [WebAuthn & Passkeys](docs/192-webauthn-passkeys.md) | FIDO2 passwordless auth, Spring Security 6.3+ WebAuthn, registration and authentication flows |
+| 193 | [Spring Security SAML2](docs/193-spring-security-saml2.md) | Enterprise SSO with Okta/Azure AD, SP metadata, attribute extraction, and dynamic registration |
+| 194 | [Data Masking & GDPR Compliance](docs/194-data-masking-gdpr.md) | PII masking in logs, column encryption, right-to-erasure, pseudonymisation, and audit trails |
+| 195 | [Flyway Advanced](docs/195-flyway-advanced.md) | Java migrations, callbacks, repair, baseline, dry-run, placeholders, and CI validation |
